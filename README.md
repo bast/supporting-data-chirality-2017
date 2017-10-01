@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/104803265.svg)](https://zenodo.org/badge/latestdoi/104803265)
+
 Supporting information for "**An oxorhenium complex bearing a chiral
 cyclohexane-1-olato-2- thiolato ligand: synthesis, stereochemistry and
 theoretical study of parity violation vibrational frequency shifts**"
